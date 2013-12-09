@@ -1,0 +1,16 @@
+	{
+	  "name": "milessummers/silverstripe-themechanger",
+	  "description": "Module to change themes in silverstripe using a query string parameter and cookies",
+	  "type": "silverstripe-module",
+	  "homepage": "http://github.com/your-vendor-name/module-name",
+	  "keywords": ["silverstripe", "themes"],
+	  "license": "?",
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  },
+	  "extra": {
+	    "installer-name": "themechanger"
+	  }
+	}	
+		
